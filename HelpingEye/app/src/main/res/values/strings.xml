@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HelpingEye</string>
+    <string name="todo1">TODO</string>
+    <string name="signupmainpage">SignUp</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="do_you_have_already_an_account">Do you have already an account?</string>
+    <string name="signup">SignUp</string>
+    <string name="todologinimage">TODO</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="signuppagebtn">SignUp</string>
+    <string name="i_agree_to_the_term_of_service">I agree to the Term of Service</string>
+    <string name="todo2">TODO</string>
+    <string name="create_account">Create Account</string>
+    <string name="todo3">TODO</string>
+    <string name="obstacle_dectection">Obstacle Dectection</string>
+    <string name="contacts">Contacts</string>
+    <string name="todo4">TODO</string>
+    <string name="alarm">Alarm</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="todo6">TODO</string>
+
+
+</resources>
